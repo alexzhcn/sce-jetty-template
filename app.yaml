@@ -1,0 +1,4 @@
+---Your Appid
+appid: 10000
+install: [jetty]
+start: /opt/scripts/webserver/jetty/jetty.sh restart
